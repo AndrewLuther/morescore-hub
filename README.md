@@ -27,7 +27,7 @@ MoreScore is a python application I developed which uses a dynamic programming a
 
 Originally, I developed a frontend using [React](https://react.dev/) with a backend [flask](https://flask.palletsprojects.com/en/stable/) python server. Eventually, this stack became difficult to maintain, and I switched to [reflex](https://reflex.dev/) for the frontend. This was convenient because it meant the entire application was written in python, and it also (at the time) allowed us to deploy the application for free. Unfortunately, reflex eventually updated to limit memory usage for applications at the free tier, and was no longer suitable for this project.
 
-Now, MoreScore is running on my personal [digitalocean droplet](https://www.digitalocean.com/products/droplets), hosted at https://morescore.andrewluther.ca/. It is packaged using [docker](https://www.docker.com/). My good friend [Jack Harrhy](https://github.com/jackharrhy/) developed a nicer frontend for the project, and guided me through the deployment process.
+Now, MoreScore is running on my personal [digitalocean droplet](https://www.digitalocean.com/products/droplets), hosted at https://morescore.andrewluther.ca/. It is packaged using [docker](https://www.docker.com/). My good friend [Jack Harrhy](https://github.com/jackharrhy/) developed a the current frontend for the project, and guided me through the deployment process.
 
 ## Where did you get the MoreScore logo?
 
