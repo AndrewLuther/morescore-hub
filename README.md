@@ -1,3 +1,5 @@
+![logo](MoreScore_Black.png)
+
 # MoreScore: An automatic piano fingering application 
 
 This repository is a hub for all things MoreScore, a project researched under the supervision of [Dr. Antonina Kolkolova](https://www.cs.mun.ca/~kol/).
