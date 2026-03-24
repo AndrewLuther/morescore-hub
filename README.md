@@ -1,4 +1,9 @@
-![logo](MoreScore_Black.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="MoreScore_Black.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="MoreScore_White.png" width=33%>
+</picture>
+
+<br/>
 
 # MoreScore: An automatic piano fingering application 
 
