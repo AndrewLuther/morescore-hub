@@ -16,7 +16,7 @@ Yes! MoreScore is ready to use at https://morescore.andrewluther.ca/
 
 ## How was it made?
 
-MoreScore is a python application I developed which uses a dynamic programming algorithm to optimize a set of fingerings using various fingering penalty metrics. The only dependency is [music21](https://music21.org/music21docs/), which is a python library for processing and analyzing musicXML files. Otherwise, all python code was written developed by me, with ideas and guidance provided by [Dr. Antonina Kolkolova](https://www.cs.mun.ca/~kol/), who supervised the project. 
+MoreScore is a python application I developed which uses a dynamic programming algorithm to optimize a set of fingerings using various fingering penalty metrics. The only dependency is [music21](https://music21.org/music21docs/), which is a python library for processing and analyzing musicXML files. Otherwise, all python code was written and developed by me, with ideas and guidance provided by [Dr. Antonina Kolkolova](https://www.cs.mun.ca/~kol/), who supervised the project. 
 
 Originally, I developed a frontend using [React](https://react.dev/) with a backend [flask](https://flask.palletsprojects.com/en/stable/) python server. Eventually, this stack became difficult to maintain, and I switched to [reflex](https://reflex.dev/) for the frontend. This was convenient because it meant the entire application was written in python, and it also (at the time) allowed us to deploy the application for free. Unfortunately, reflex eventually updated to limit memory usage for applications at the free tier, and was no longer suitable for this project.
 
